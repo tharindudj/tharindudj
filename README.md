@@ -14,7 +14,7 @@
 <a href="https://dev.to/tharinduj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tharinduj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tharindu-jayakody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindu-jayakody" height="30" width="40" /></a>
 <a href="https://fb.com/tharindu.dilhara.jayakody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharindu.dilhara.jayakody" height="30" width="40" /></a>
-<a href="https://discord.gg/Frames#1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Frames#1000" height="30" width="40" /></a>
+<a href="https://discord.com/users/776841382169542676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Frames#1000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
