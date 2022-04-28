@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tharindujayakody.me](https://tharindujayakody.me)
 
-- 📫 How to reach me **tharindujayakody21@gmail.com**
+- 📫 How to reach me: email - **tharindujayakody21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
