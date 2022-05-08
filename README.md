@@ -24,7 +24,7 @@
 &nbsp;
 &nbsp;
 &nbsp;--->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindudj&show_icons=true&locale=en" alt="tharindudj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindudj&theme=github_dark&show_icons=true&locale=en" alt="tharindudj" /></p>
 
 <!---
 tharindudj/tharindudj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
