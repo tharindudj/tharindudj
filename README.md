@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindudj&label=Profile%20views&color=0e75b6&style=flat" alt="tharindudj" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://tharindujayakody.me](https://tharindujayakody.me)
 
